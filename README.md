@@ -2,6 +2,6 @@
 
 I'm Eddie Joe. 
 
-🚃 I’m currently working on translating spatial stories and events into 3D moments in the browser. 
-🛵 I’m currently practicing WebGL. 
+🚃 I’m currently working on sharing urban planning stories online. 
+🛵 I’m interested in WebGL. 
 🚲 I’m looking to collaborate on projects at the intersection of urbanism and technology. 
